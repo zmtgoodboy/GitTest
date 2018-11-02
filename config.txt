@@ -3,3 +3,4 @@ host =localhost test
 alibranch
 testbranch
 
+no password
